@@ -1,0 +1,14 @@
+
+body {
+    color: #34495e;
+}
+
+
+.form,
+.greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
